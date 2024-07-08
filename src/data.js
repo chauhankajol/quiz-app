@@ -1,0 +1,42 @@
+export const data =[
+    {
+        question:"what do you like most ?",
+        option1:"sleeping",
+        option2:"reading",
+        option3:"eating",
+        option4:"talking",
+        ans:1,
+    },
+    {
+        question:"whats your fav. color ?",
+        option1:"red",
+        option2:"green",
+        option3:"yellow",
+        option4:"dark blue",
+        ans:4,
+    },
+    {
+        question:"what do you like in food ?",
+        option1:"kadhai paneer",
+        option2:"chilly pattato",
+        option3:"chowmin",
+        option4:"french fries",
+        ans:1,
+    },
+    {
+        question:"what do you like  dessert ?",
+        option1:"choco",
+        option2:"rasgulla",
+        option3:"sonpapdi",
+        option4:"gulab-jamun",
+        ans:3,
+    },
+    {
+        question:"who's your fav. actor ?",
+        option1:"akshay",
+        option2:"shahid",
+        option3:"salman",
+        option4:"shahrukh",
+        ans:1,
+    },
+]

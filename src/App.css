@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image:linear-gradient(#D8C7FF,#19006C);
+}
+.containerr{
+    
+    max-width: 50vh;
+    background-color:white;
+    margin: auto;
+   
+    margin-top: 100px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.containerr h1{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.containerr h3{
+    font-size: 1rem;
+  
+
+}
+.containerr ul li{
+    border: 1px solid black;
+    border-radius:  5px;
+    margin: 10px;
+    padding: 4px;
+}
+.containerr button{
+     background-color: blueviolet;
+     width: 290px;
+     border-radius: 5px;
+
+}
+.containerr p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerr .correct
+{
+    background: #dffff2;
+    border-color:#00d397 ;
+}
+.containerr .wrongs{
+    background: #FFEBEB;
+    border-color:#FF4a4a ;
+}
